@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio Site McDonald's usando React 🍔🍟
 
 # @vainaweb 
@@ -22,3 +23,6 @@ Outras bibliotecas/frameworks com permissão (se aplicável)
 
 Contribuição 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir questões relacionadas, sugerindo melhorias ou enviando pull requests com novas funcionalidades
+=======
+# Frontend
+>>>>>>> 12ce912a0c6ef216407adcf738d2d604f1b1a481
