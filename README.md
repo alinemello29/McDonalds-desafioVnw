@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Desafio Site McDonald's usando React 🍔🍟
 
 # @vainaweb 
